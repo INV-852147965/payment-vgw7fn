@@ -1,8 +1,10 @@
 2026-09-15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: louis2019wesly@comcast.com, jimmy3707@yahoo.com
-At: 2026-09-15 22:13:44
-Id: QvZrQzxQ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: kelleygrnflaty@aol.com, edcarrion@comcast.net
+At: 2026-09-15 22:14:23
+Id: jUdZXo5J
